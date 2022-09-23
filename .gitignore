@@ -30,3 +30,4 @@ __MACOSX/
 /builder-source/node_modules
 /builder-source/dist/grapesjs-preset-webpage.min.css
 /builder-source/dist/grapesjs-preset-webpage.min.js
+.idea/
